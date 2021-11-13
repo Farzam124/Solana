@@ -1,0 +1,396 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+.top-link{
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.white-links{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    padding:5px 20px ;
+    margin: 10px;
+    font-weight: bold;
+}
+.top{
+    text-align: center;
+    padding: 10px;
+    background-color: rgb(132, 0, 172);
+}
+.salona-image{
+    width: 150px;
+    margin:0 20px;
+}
+nav{
+    background-color: rebeccapurple;
+    padding: 5px ;
+    display: flex;
+    align-items: center;
+}
+.earth-image{
+    width: 25px;
+    margin-left: 160px;
+}
+.section-one{
+    display: flex;
+    background-color: rebeccapurple;
+    padding: 20px;
+    padding-bottom: 80px;
+}
+.box p{
+    font-size: 25px;
+    color: white;
+    margin-top: 40px;
+    font-weight: 400;
+    border-top: 1px solid white;
+    width: 95%;
+    padding-top:30px ;
+}
+.box h1{
+    font-size: 90px;
+    color: white;
+    margin-bottom: 30px;
+}
+.sb-button{
+    text-decoration: none;
+    color: black;
+    padding: 10px 15px;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-weight: 400;
+    background-color: rgb(20 241 149);
+}
+.sb-button:hover{
+    color: black;
+    background-color: white;
+}
+.rd-button{
+    text-decoration: none;
+    color: white;
+    padding: 10px 15px;
+    border: 1px solid white;
+    border-radius: 20px;
+    font-weight: 400;
+    background-color:black;
+}
+.rd-button:hover{
+    color: black;
+    background-color: white;
+}
+.section-two{
+    display: flex;
+    background-color: rgb(20 241 149);
+}
+
+.image{
+    height: 395px;
+    margin-top:150px;
+}
+
+.point{
+    display: flex;
+    padding: 10px;
+    margin-left: 10px;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid black;
+}
+.point h2{
+    font-size: 50px;
+    padding-left: 120px;
+}
+.point p{
+    font-size: 18px;
+    width: 29%;
+}
+.section-three{
+    background-color: black;
+    padding: 50px 20px;
+    display: flex;
+}
+.section-three h2{
+    font-size: 80px;
+    font-weight: bold;
+    line-height: 70px;
+    color:white;
+    width: 145%;
+}
+.box-three p{
+    color: white;
+    font-size: 26px;
+    margin-bottom: 40px;
+}
+.ete-button{
+    background-color: rgb(153, 69, 255);
+    padding: 10px 15px;
+    text-decoration: none;
+    color: white;
+    border-radius: 20px;
+    font-weight: 400;
+
+}
+.ete-button:hover{
+    color: black;
+    background-color: white;
+}
+.section-four{
+    padding: 20px 50px;
+    background-color: black;
+}
+.image-box{
+    display: flex;
+    align-items: center;
+    padding: 10px 0 10px 150px;
+}
+.image-box img{
+    width: 30px;
+    padding: 20px 20px 0 20px;
+}
+.image-box a{
+    text-decoration: none;
+    color: white;
+    margin-left: -10px;
+}
+.section-five{
+    padding: 20px 0 600px 0;
+    background-color:black;
+    display: flex;
+    justify-content: right;
+    background-image: url('../assest/images/photo-1636793298494-a79e1998d6a9.jpg');
+    background-repeat: no-repeat;
+    background-position:center ;
+    background-size: 1123px;
+}
+.box-five{
+    background-color: rgb(20 241 149) ;
+    box-shadow: 0 -30px 9px -10px  rgb(20 241 149);
+    padding: 20px;
+    border-radius: 10px;
+}
+.box-five h2{
+    font-size: 70px;
+}
+.box-five p{
+    font-size: 22px;
+    margin-bottom: 80px;
+    width: 60%;
+}
+.box-five a{
+    text-decoration: none;
+    padding: 10px 25px 10px 15px;
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    font-size: 20px;
+}
+.box-five a:hover{
+        color: black;
+        background-color: white;
+}
+.section-six-main{
+    background-color: black;
+    padding-bottom: 500px;
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-image: url(https://solana.com/static/d6ab3ce99c22bc21d77d935142b9f8d1/b9b6d/index_scale_adoption.avif);
+}
+.section-six{
+    background-color: black;
+    color: white;
+    padding: 20px 200px;    
+}
+.section-six h2{
+     font-size: 85px;
+}
+.section-six h3{
+    font-size: 46px;
+}
+.section-six p{
+    font-size: 25px;
+}
+.section-seven{
+    display: flex;
+    background-color: black;
+}
+.box-seven{
+    margin: 10px;
+
+    background-color: rgb(36, 35, 35);
+    border-radius: 15px;
+}
+.box-seven h2{
+    color: white;
+    font-size: 76px;
+    padding-left: 10px;
+}
+.box-seven p{
+    color: white;
+    font-size: 25px;
+    padding-left: 10px;
+}
+.same-image{
+    width: 515px;
+    margin-top: 83px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.same-image-two{
+    width: 555px;
+    margin-top: 168px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+.section-eight{
+    padding: 250px 200px;
+    background-color:black ;
+    background-repeat: no-repeat;
+    background-position: top;
+    background-image: url(https://solana.com/static/f6fdbb770b8c5e518dfb2be8281eb31b/7921b/index_decentralized.webp);
+}
+
+.section-eight h2{
+    color: white;
+     font-size: 85px;
+}
+.section-eight h3{
+    font-size: 46px;
+    color: white;
+}
+.section-eight p{
+    font-size: 25px;
+    color: white;
+}
+.section-nine{
+    display: flex;
+    justify-content: center;
+    background-color: black;
+    padding: 0 10px;
+}
+.box-eight{
+    background-color: #e83e8c;
+    padding:20px 40px;
+    border-radius: 10px;
+    margin: 20px 10px;
+    width: 50%;
+}
+.box-eight h2{
+    color: black;
+    font-size: 60px;
+    
+}
+.box-eight p{
+    color: black;
+    font-size: 22px;
+    margin-bottom: 90px;
+}
+.box-nine{
+    background-color: rgb(20 241 149);
+    padding:20px 40px;
+    border-radius: 10px;
+    margin: 20px 10px;
+    width: 50%;
+}
+.box-nine h2{
+    color: black;
+    font-size: 60px;
+    
+}
+.box-nine p{
+    color: black;
+    font-size: 22px;
+    width: 95%;
+    margin-bottom: 90px;
+}
+.section-ten-main{
+    background-color: black;
+    padding-bottom: 100px;
+}
+.section-ten{
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(128 236 255);
+    padding:20px 40px;
+    margin:0 20px ;
+    border-radius: 10px;  
+    box-shadow: 0 30px 9px -10px rgb(128 236 255);
+}
+.section-ten h2{
+    font-size: 60px;
+    line-height: 52px;
+}
+.box-ten{
+    margin-left: 250px;
+}
+.box-ten p{
+    font-size: 22px;
+    margin-bottom: 40px;
+}
+.black-button{
+    background-color: black;
+    padding: 15px 20px;
+    color: white;
+    text-decoration: none;
+    border-radius: 25px;
+    font-weight: 400;
+}
+.black-button:hover{
+    color: black;
+    background-color: white;
+}
+.section-eleven{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    padding: 80px 100px 80px 0;
+}
+.heading{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    font-weight: 400;
+    background-color: black;
+    
+}
+.grey-link{
+    text-decoration: none;
+    color: white;
+    font-size: 18px;
+    margin: 10px;
+    list-style: none;
+}
+.grey-link:hover{
+    color: grey;
+    text-decoration: grey;
+}
+ul p{
+    color: grey;
+    margin-left: 19px;
+    font-size: 17px;
+}
+footer{
+    background-color: black;
+    padding:130px 20px;
+}
+.footer-one{
+    padding: 30px 10px;
+    border-radius: 10px;
+    background-color: white;
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 0 -30px 9px -10px white;
+}
+.last-image{
+    margin-left: 10px;
+}
+.last-link{
+    text-decoration: none;
+    color: rgb(61, 61, 61);
+    margin-right: 10px;
+}
+.last-link:hover{
+    color: black;
+}
